@@ -1,5 +1,5 @@
 # Receiving input
-user_name = input("What is your full name? ")
+user_name = input("What is your name? ")
 birth_year = input("Which year were you born? ")
 
 # Type conversion ? int() / str() / bool() / float()
